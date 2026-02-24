@@ -1,4 +1,5 @@
 Nicholas Coffield
+
 Computer Engineering Student | The Pennsylvania State University
 
 I am a Computer Engineering student with a minor in Artificial Intelligence Engineering.
