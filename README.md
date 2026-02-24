@@ -3,7 +3,6 @@ Nicholas Coffield
 Computer Engineering Student | The Pennsylvania State University
 
 I am a Computer Engineering student with a minor in Artificial Intelligence Engineering.
-
 My focus is on the intersection of hardware architecture and AI efficiency, specifically regarding GPU development and semiconductor packaging.
 
 Technical Toolkit
