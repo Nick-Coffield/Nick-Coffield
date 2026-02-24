@@ -7,7 +7,7 @@ I am a Computer Engineering student with a minor in Artificial Intelligence Engi
 
 ### **Technical Toolkit**
 * **Languages:** Java (Object-Oriented), Python, C++, Verilog
-* **Design & Simulation:** Vivado Design Suite, NI Multisim, Integrated Circuits (ICs), Breadboarding
+* **Design & Simulation:** Vivado Design Suite, MARS, NI Multisim, Integrated Circuits (ICs), Breadboarding
 * **Hardware:** NI MyDAQ, Oscilloscopes, Digital Multimeters, Function Generators
 
 ---
