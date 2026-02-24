@@ -13,7 +13,7 @@ I am a Computer Engineering student with a minor in Artificial Intelligence Engi
 ---
 
 ### **Engineering Labs**
-* **CMPEN 331:** Simulating MIPS architecture and processor datapaths using Vivado
+* **CMPEN 331:** Simulating MIPS architecture and processor datapaths using Vivado and MARS
 * **EE 210:** Analyzing analog circuits and frequency response using NI MyDAQ
 * **CMPEN 270:** Designing combinational and sequential logic circuits at the gate level
 
